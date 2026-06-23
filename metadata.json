@@ -1,0 +1,6 @@
+{
+  "name": "SinauJawa",
+  "description": "A gamified Javanese language learning application (Ngoko, Krama, Krama Inggil).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
